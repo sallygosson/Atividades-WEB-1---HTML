@@ -4,7 +4,7 @@ Repositório das atividades (HTML) da disciplina Web I
 # Lista I - HTML
 
 Lista de atividades:
-- Atividade 1
+- (Atividade 1)[https://github.com/sallygosson/Atividades-WEB-1---HTML/blob/main/sally%20web%20I/html_atividades/atividade1.html]
 - Atividade 2
 - Atividade 3
 - Atividade 4
